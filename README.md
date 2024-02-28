@@ -80,5 +80,7 @@ Created graphs which visualize trends, seasonality and noise.
 
 # Datasets folder
 
-Contains datasets that are used. However, some datasets are downloaded through tensorflow_datasets.
+Contains datasets that are used in this repository. 
+
+The flower dataset was too large and is not included in the repository. However, you can install the dataset for ([here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz)). Some datasets are also downloaded through tensorflow_datasets package.
 
