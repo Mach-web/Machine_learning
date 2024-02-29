@@ -76,6 +76,14 @@ val_accuracy = 0.98
 
 Created graphs which visualize trends, seasonality and noise.
 
+#### naive_forecasting.ipynb
+
+Used naive forecasting to predict future values. In naive forecasting, the immediate previous value is taken as the prediction.
+
+#### moving_average.ipynb
+
+Use the average of the previous 30 days to make current prediction.
+
 
 
 # Datasets folder
