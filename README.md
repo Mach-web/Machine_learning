@@ -86,7 +86,7 @@ Use the average of the previous 30 days to make current prediction. Remove trend
 
 #### time_windows.ipynb
 
-Created a dataset of 10-step windows for training.
+Created a dataset of 10-step windows for training. The last function takes a time series and converts it to a dataset with windows. It takes series, window_size, batch_size and buffer_size as the arguments.
 
 
 
