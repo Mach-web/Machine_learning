@@ -84,6 +84,10 @@ Used naive forecasting to predict future values. In naive forecasting, the immed
 
 Use the average of the previous 30 days to make current prediction. Remove trends and seasonality then use the moving_average to make predictions.
 
+#### time_windows.ipynb
+
+Created a dataset of 20-step windows for training.
+
 
 
 # Datasets folder
