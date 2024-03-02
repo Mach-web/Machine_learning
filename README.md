@@ -4,7 +4,7 @@ This repository covers implementation of various machine learning techniques.
 
 Implementation is mostly done by tensorflow and its dependencies.
 
-The repository covers udacity's course on Introduction to Tensorflow for deep learning and Tensorflow's playlist on youtube. 
+The repository implements concepts in Tensorflow's playlist on youtube and Udacity's course on Introduction to Tensorflow for deep learning.
 
 
 
@@ -82,7 +82,7 @@ Used naive forecasting to predict future values. In naive forecasting, the immed
 
 #### moving_average.ipynb
 
-Use the average of the previous 30 days to make current prediction.
+Use the average of the previous 30 days to make current prediction. Remove trends and seasonality then use the moving_average to make predictions.
 
 
 
