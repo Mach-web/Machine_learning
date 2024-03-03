@@ -88,6 +88,10 @@ Use the average of the previous 30 days to make current prediction. Remove trend
 
 Created a dataset of 10-step windows for training. The last function takes a time series and converts it to a dataset with windows. It takes series, window_size, batch_size and buffer_size as the arguments.
 
+#### forecasting_with_machine_learning.ipynb
+
+Train a regression model to make predictions. Use keras to find the best learning rate. Used early stopping to stop training when the loss does not change for a while.
+
 
 
 # Datasets folder
