@@ -90,7 +90,7 @@ Created a dataset of 10-step windows for training. The last function takes a tim
 
 #### forecasting_with_machine_learning.ipynb
 
-Train a regression model to make predictions. Use keras to find the best learning rate. Used early stopping to stop training when the loss does not change for a while.
+Train a regression and dense model to make predictions. Use keras to find the best learning rate. Used early stopping to stop training when the loss does not change for a while.
 
 
 
