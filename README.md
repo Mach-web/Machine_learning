@@ -92,6 +92,10 @@ Created a dataset of 10-step windows for training. The last function takes a tim
 
 Train a regression and dense model to make predictions. Use keras to find the best learning rate. Used early stopping to stop training when the loss does not change for a while.
 
+#### forecasting_with_rnn.ipynb
+
+Trained a RNN model to make predictions. Also used Sequence to sequence forecasting using an RNN model. Data preparation for sequence to sequence forecating is a little different. Expand dimensions of a series using tf.expand_dim(series, axis = -1).
+
 
 
 # Datasets folder
