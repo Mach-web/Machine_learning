@@ -99,6 +99,9 @@ Trained a RNN model to make predictions. Also used Sequence to sequence forecast
 Expand dimensions of a series using tf.expand_dims(series, axis = -1). 
 Tried the Adam and SGD optimizers, no major differences was noticed.
 
+#### forecasting_with_stateful_rnn.ipynb
+
+Trained a stateful RNN model. During data preparation, the data is not shuffled. The output from the initial rnn is passed as the state input to the next rnn.
 
 
 # Datasets folder
