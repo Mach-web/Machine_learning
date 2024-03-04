@@ -96,7 +96,8 @@ Train a regression and dense model to make predictions. Use keras to find the be
 
 Trained a RNN model to make predictions. Also used Sequence to sequence forecasting using an RNN model. Data preparation for sequence to sequence forecating is a little different. 
 
-Expand dimensions of a series using tf.expand_dims(series, axis = -1). Tried the Adam and SGD optimizers, no major differences was noticed.
+Expand dimensions of a series using tf.expand_dims(series, axis = -1). 
+Tried the Adam and SGD optimizers, no major differences was noticed.
 
 
 
