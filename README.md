@@ -103,6 +103,12 @@ Tried the Adam and SGD optimizers, no major differences was noticed.
 
 Trained a stateful RNN model. During data preparation, the data is not shuffled. The output from the initial rnn is passed as the state input to the next rnn.
 
+#### forecasting_with_cnn.ipynb
+
+In the first step, created a model with a cnn layer as first layer then had the rest of the layers as LSTM and Dense layers.
+
+I then created a fully connected CNN using wavenet architecture. It performed better than the RNNs. Got the lowest mae.
+
 
 # Datasets folder
 
