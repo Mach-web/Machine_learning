@@ -24,6 +24,14 @@ Used StandardScaler, MinMaxScaler to standardize values in sklearn.
 
 Given an irish poem, created a model using rnn to generate a new poem.
 
+#### Tokenization_udacity.ipynb
+
+Implemented tokenization in Udacity's course.
+
+#### NLP Intro- preparing text to use with Tensorflow models.ipynb
+
+Tokenized sentences. Converted the tokenized sentences to sequences of the same length. Added padding to the end of the sequences.
+
 
 
 # Image_recognition folder
