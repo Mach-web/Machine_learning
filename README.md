@@ -36,6 +36,10 @@ Tokenized sentences. Converted the tokenized sentences to sequences of the same 
 
 Tokenized, sequences and padded data from a large dataset of reviews.
 
+#### NLP - Word Embeddings and Sentiment.ipynb
+
+Trained a Basic Sentiment Model with Embeddings.
+
 
 
 # Image_recognition folder
