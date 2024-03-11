@@ -32,6 +32,10 @@ Implemented tokenization in Udacity's course.
 
 Tokenized sentences. Converted the tokenized sentences to sequences of the same length. Added padding to the end of the sequences.
 
+#### NLP intro- tokenizing and sequencing a real dataset
+
+Tokenized, sequences and padded data from a large dataset of reviews.
+
 
 
 # Image_recognition folder
@@ -123,4 +127,6 @@ I then created a fully connected CNN using wavenet architecture. It performed be
 Contains datasets that are used in this repository. 
 
 The flower dataset was too large and is not included in the repository. However, you can install the dataset for ([here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz)). Some datasets are also downloaded through tensorflow_datasets package.
+
+The reviews folder text reviews from various companies. The data can be used to perform sentiment analysis.
 
