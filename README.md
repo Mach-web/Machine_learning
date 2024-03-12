@@ -40,6 +40,10 @@ Tokenized, sequences and padded data from a large dataset of reviews.
 
 Trained a Basic Sentiment Model with Embeddings.
 
+#### NLP - Tweaking the model.ipynb
+
+Improved the previous sentiment model by tweaking some parameters such as vocab_size, embedding_dimension, and input length.
+
 
 
 # Image_recognition folder
