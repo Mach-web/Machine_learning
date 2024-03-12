@@ -44,6 +44,10 @@ Trained a Basic Sentiment Model with Embeddings.
 
 Improved the previous sentiment model by tweaking some parameters such as vocab_size, embedding_dimension, and input length.
 
+#### What's in a (sub)word?.ipynb
+
+Created subwords from then trained the model. The model was overfitting.
+
 
 
 # Image_recognition folder
