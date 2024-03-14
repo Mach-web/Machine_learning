@@ -48,6 +48,9 @@ Improved the previous sentiment model by tweaking some parameters such as vocab_
 
 Created subwords from then trained the model. The model was overfitting.
 
+#### Use LSTMs with the reviews subwords dataset.ipynb
+
+Compared predictions between Embeddings and GlobalAveragePooling layer, Embeddings and a Bidirectional LSTM layer, Embeddings and a multiple Bidirectional LSTM layer.
 
 
 # Image_recognition folder
