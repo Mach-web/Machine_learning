@@ -54,6 +54,10 @@ Created subwords from then trained the model. The model was overfitting.
 
 Compared predictions between Embeddings and GlobalAveragePooling layer, Embeddings and a Bidirectional LSTM layer, Embeddings and a multiple Bidirectional LSTM layer.
 
+#### Using CNNS, GRUs, LSTMs with a larger dataset.ipynb
+
+Compared movie reviews predictions between models with Embeddings only, CNN, GRU, LSTM and multiple LSTMs.
+
 
 # Image_recognition folder
 
