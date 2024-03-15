@@ -4,7 +4,7 @@ This repository covers implementation of various machine learning techniques.
 
 Implementation is mostly done by tensorflow and its dependencies.
 
-The repository implements concepts in ([Tensorflow's playlist on youtube](https://www.youtube.com/@TensorFlow)) and ([https://learn.udacity.com/courses/ud187](Udacity's course on Introduction to Tensorflow for deep learning.))
+The repository implements concepts in [Tensorflow's playlist on youtube](https://www.youtube.com/@TensorFlow) and [Udacity's course on Introduction to Tensorflow for deep learning.](https://learn.udacity.com/courses/ud187)
 
 
 
@@ -141,8 +141,10 @@ I then created a fully connected CNN using wavenet architecture. It performed be
 
 Contains datasets that are used in this repository. 
 
-The flower dataset was too large and is not included in the repository. However, you can install the dataset for ([here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz)). Some datasets are also downloaded through tensorflow_datasets package.
+The flower dataset was too large and is not included in the repository. However, you can install the dataset  ([here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz)). 
+
+Some datasets are also downloaded through tensorflow_datasets package.
 
 The reviews folder text reviews from various companies. The data can be used to perform sentiment analysis.
 
-The songdata dataset for NLP text generation can be downloaded ([here](https://drive.google.com/uc?id=1LiJFZd41ofrWoBtW-pMYsfz1w8Ny0Bj8))
+The songdata dataset for NLP text generation can be downloaded ([here.](https://drive.google.com/uc?id=1LiJFZd41ofrWoBtW-pMYsfz1w8Ny0Bj8))
