@@ -10,6 +10,8 @@ The repository implements concepts in [Tensorflow's playlist on youtube](https:/
 
 # NLP folder
 
+[Youtube playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
+
 This folder implements basic natural language processing using tensorflow.
  
 #### recognize_sentiment_sarcasm.ipynb
