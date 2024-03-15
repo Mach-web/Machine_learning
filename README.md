@@ -4,7 +4,7 @@ This repository covers implementation of various machine learning techniques.
 
 Implementation is mostly done by tensorflow and its dependencies.
 
-The repository implements concepts in (([Tensorflow's playlist on youtube](https://www.youtube.com/@TensorFlow)) and ([https://learn.udacity.com/courses/ud187](Udacity's course on Introduction to Tensorflow for deep learning.))
+The repository implements concepts in ([Tensorflow's playlist on youtube](https://www.youtube.com/@TensorFlow)) and ([https://learn.udacity.com/courses/ud187](Udacity's course on Introduction to Tensorflow for deep learning.))
 
 
 
