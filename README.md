@@ -56,7 +56,7 @@ Compared predictions between Embeddings and GlobalAveragePooling layer, Embeddin
 
 #### Using CNNS, GRUs, LSTMs with a larger dataset.ipynb
 
-Compared movie reviews predictions between models with Embeddings only, CNN, GRU, LSTM and multiple LSTMs.
+Compared movie review predictions between models with Embeddings only, CNN, GRU, LSTM and multiple LSTMs.
 
 
 # Image_recognition folder
