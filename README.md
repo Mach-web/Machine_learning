@@ -58,6 +58,14 @@ Compared predictions between Embeddings and GlobalAveragePooling layer, Embeddin
 
 Compared movie review predictions between models with Embeddings only, CNN, GRU, LSTM and multiple LSTMs.
 
+#### Constructing a Text Generation Model.ipynb
+
+Created a text generation model from songs dataset.
+
+#### Optimizing the text generation model.ipynb
+ 
+Improved "Constructing a Text Generation Model.ipynb" by increasing the data used to 250 songs, using a (better) model and varying the possible outputs(to reduce word repetition).
+
 
 # Image_recognition folder
 
