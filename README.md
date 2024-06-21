@@ -4,8 +4,56 @@ This repository covers implementation of various machine learning techniques.
 
 Implementation is mostly done by tensorflow and its dependencies.
 
-The repository implements concepts in [Tensorflow's playlist on youtube](https://www.youtube.com/@TensorFlow) and [Udacity's course on Introduction to Tensorflow for deep learning.](https://learn.udacity.com/courses/ud187)
+The repository implements concepts in [Tensorflow's playlist on youtube](https://www.youtube.com/@TensorFlow), [Udacity's Machine Learning Fundamentals nanodegree](https://learn.udacity.com/nanodegrees/nd189-aws-fundamentals), [YOLO Object detection](https://youtube.com/playlist?list=PLqinEaadXCHYKnpdFEADSIAHWnNmuC0Cc&si=joKs6NcDNHLxPeLO) and [Udacity's course on Introduction to Tensorflow for deep learning.](https://learn.udacity.com/courses/ud187)
 
+
+# ML_Fundamentals
+
+ [Udacity's Machine Learning Fundamentals nanodegree](https://learn.udacity.com/nanodegrees/nd189-aws-fundamentals)
+
+This folder implements the various student exercises found in Udacity's Machine Learning Fundamentals course.
+
+The folder is organised in sub folders which hold the various udacity modules.
+
+It does not cover all the modules. 
+
+#### CNN Fundamentals
+
+Covers the basics of how CNNs work. 
+
+#### CNN in Depth
+
+Covers CNNs in depth and how to use torchvision for finding the best learning rate and visualizing the model.
+
+#### Deep learning
+
+Implementing regularization and training a neural network.
+
+#### Transfer Learning
+
+Train a larger model to achieve higher accuracy.
+
+# YOLO
+
+This covers how to use YOLO. I used the YOLO documentation to practice.
+
+#### quickstart.ipynb
+
+Train a YOLO model.
+
+#### obj_detection.py
+
+Use YOLO to detect objects. YOLO draws a box around the object.
+
+# open_cv
+
+#### load_and_show_img.py
+
+Read image, convert to gray scale and save it.
+
+#### video_capture.py
+
+Capture live or recorded video. 
 
 
 # NLP folder
