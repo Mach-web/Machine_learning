@@ -7,7 +7,7 @@ class App:
     def run(self):
         k = 0
         # ord - returns ASCII
-        # this code exits when one presses "q"
+        # this code exits when one presses "q"hbh
         while k != ord("q"):
             k = cv.waitKey(0)
             # chr - ASCII to value
