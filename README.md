@@ -63,6 +63,10 @@ Capture mouse movements and return coordinates.
 
 Use BGR and grayscale to display images.
 
+#### draw_a_line.py
+
+Drew lines and even triangles.
+
 # NLP folder
 
 [Youtube playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
