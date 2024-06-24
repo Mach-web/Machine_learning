@@ -55,6 +55,13 @@ Read image, convert to gray scale and save it.
 
 Capture live or recorded video. 
 
+#### catching_mouse_events.py
+
+Capture mouse movements and return coordinates.
+
+#### using_numpy.py
+
+Use BGR and grayscale to display images.
 
 # NLP folder
 
