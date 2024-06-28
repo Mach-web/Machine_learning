@@ -1,0 +1,16 @@
+Datasets/
+YOLO/runs/
+*.yaml
+*.pt
+*.xml
+*.json
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.type
+*.user
+*runName
+*.iml
+
+
