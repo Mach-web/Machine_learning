@@ -13,13 +13,18 @@ print(f"Center of Image: {center}")
 rotated = cv.warpAffine(img, M, (width, height))
 cv.imshow("window", rotated)'''
 
-def track(angle):
-    M = cv.getRotationMatrix2D(center, angle, 1.0)
-    rotated = cv.warpAffine(img, M, (width, height))
-    cv.imshow("window", rotated)
+def track(angle_scale):
+    # track rotation trackbar
+    # M = cv.getRotationMatrix2D(center, angle_scale, 1.0)
+    # create a scale trackbar
+    M = cv.getRotationMatrix2D(center, 0, angle_scale / 10)
+    rotated_scaled = cv.warpAffine(img, M, (width, height))
+    cv.imshow("window", rotated_scaled)
 
 cv.imshow("window", img)
-cv.createTrackbar('angl', 'window', 0, 270, track)
-
+# create a trackbar for rotation
+# cv.createTrackbar('angl', 'window', 0, 270, track)
+# create trackbar for scaling
+cv.createTrackbar('scale', 'window', 10, 30, track)
 cv.waitKey(20000)
 cv.destroyAllWindows()
