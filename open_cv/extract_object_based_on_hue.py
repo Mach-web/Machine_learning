@@ -15,5 +15,5 @@ def trackbar(x):
 cv.imshow('window', img)
 cv.createTrackbar('hue', "window", 0, 179, trackbar)
 
-cv.waitKey(000)
+cv.waitKey(20000)
 cv.destroyAllWindows()
