@@ -16,7 +16,8 @@ def get_data_loaders(batch_size, val_fraction=0.2):
     # Get train, validation and test
     # Let's start with train and validation
     trainval_data = datasets.MNIST(
-        root=DATA, train=True, transform=transform, download = True
+        root=DATA, train=True, transform=transform, download = 
+        True
     )
 
     # Split in train and validation
