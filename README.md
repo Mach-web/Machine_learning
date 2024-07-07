@@ -47,6 +47,12 @@ Use YOLO to detect objects. YOLO draws a box around the object.
 
 # open_cv
 
+This folder implements practicals found in open-cv documentation.
+
+#### image_arithmetic.py
+
+Make images darker or brighter. Resized the images. Arrange the images horizontally(hstack).
+
 #### load_and_show_img.py
 
 Read image, convert to gray scale and save it.
@@ -66,6 +72,24 @@ Use BGR and grayscale to display images.
 #### draw_a_line.py
 
 Drew lines and even triangles.
+
+#### extract_object_based_on_hue.py
+
+#### draw_ellipse.py
+
+Draw an oval.
+
+#### draw_polyline.py
+
+#### rotation.py
+
+Rotate and scale images.
+
+#### flip.py
+
+Flip images horizontally and vertically using keys.(v and h)
+
+
 
 # NLP folder
 
